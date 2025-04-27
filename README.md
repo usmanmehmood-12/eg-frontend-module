@@ -2,7 +2,7 @@
 
 ## Description
 
-This is the frontend for a user sign up and sign in App with a welcome page which includes JWT authentication & authorization. Built with React, Material-UI and Typescript.
+This is the frontend for a user sign up and sign in App with a welcome page _(screenshots below)_ which includes JWT authentication & authorization. Built with React, Material-UI and Typescript.
 
 ## Installation & Available Scripts
 
