@@ -56,7 +56,7 @@ Created a sign-in form with fields for email and password.
 - **Application page:**
 Created a page displaying a welcome message: "Welcome to the application."
 
-- **Technologies Used**
+## **_Technologies Used:## **_
 
 1. **React**: Frontend framework to build the user interface.
 2. **Material-UI**: Component library for a consistent and beautiful design.
