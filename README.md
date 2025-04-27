@@ -40,20 +40,20 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 3. Create a login and signup page for registered users.
 4. Welcome/Dashboard page secured with protected route.
 
-Sign up page:
+- **Sign up page:**
 Created a signup form with the following fields: email, name, and password. After
 successful signup, users is redirected to the application page.
 
-Password requirements:
+- **Password requirements:**
 • Minimum length of 8 characters
 • Contains at least 1 letter.
 • Contains at least 1 number.
 • Contains at least 1 special character.
 
-Sign in page:
+- **Sign in page:**
 Created a sign-in form with fields for email and password.
 
-Application page:
+- **Application page:**
 Created a page displaying a welcome message: "Welcome to the application."
 
 - **Technologies Used**
