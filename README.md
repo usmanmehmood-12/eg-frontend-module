@@ -85,3 +85,9 @@ The app includes error handling mechanisms to ensure smooth user experience:
 - Welcome Page: ![welcome page](https://github.com/user-attachments/assets/a2d24542-a231-4a6e-964b-9120d482f843)
 
 
+### ***Env:***
+```bash
+# App Domain
+REACT_APP_API_URL=http://localhost:3001/
+
+```
