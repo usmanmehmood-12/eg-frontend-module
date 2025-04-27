@@ -73,7 +73,7 @@ The app includes error handling mechanisms to ensure smooth user experience:
 
 - **Form Validation**:
 
-  - Ensures required fields (like task title) are filled before submission.
+  - Ensures required fields (like name, email, password) are filled before submission.
 
 - **Signup & Login Exception/Error Handling**:
   - Display relevant error messages for unsuccessful signup & login attempts.
